@@ -1,0 +1,20 @@
+<ProductList>
+  <listOfProducts>
+    <Product desc="metal">
+      <name>olovo</name>
+      <price price="10.0" currency="$"/>
+      <qtyOnHand>1</qtyOnHand>
+      <minOrderQty>1</minOrderQty>
+    </Product>
+    <Product desc="metal">
+      <name>cuprum</name>
+      <price price="10.0" currency="EVRO"/>
+      <qtyOnHand>1</qtyOnHand>
+      <minOrderQty>1</minOrderQty>
+    </Product>
+    <null/>
+    <null/>
+    <null/>
+  </listOfProducts>
+  <index>2</index>
+</ProductList>
