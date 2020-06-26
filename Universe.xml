@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universe>
+	<galaxies>
+		<galaxy>
+			<name>Sun System</name>
+			<planets>
+				<planet>
+					<name>Earth</name>
+					<radius>6300</radius>
+					<mass ed="kg">1000000</mass>
+				</planet>
+				<planet>
+					<name>Uran</name>
+					<radius>10000</radius>
+					<mass>100043000</mass>
+				</planet>
+			</planets>
+		</galaxy>
+		<galaxy>
+			<name>Sun System double</name>
+			<planets>
+				<planet>
+					<name>tmp</name>
+					<radius>63044440</radius>
+					<mass ed="Mg">10000</mass>
+				</planet>
+				<planet>
+					<name>b</name>
+					<radius>1033000</radius>
+					<mass ed="kg">1043000</mass>
+				</planet>
+				<planet>
+					<name>b2</name>
+					<radius>100</radius>
+					<mass>10000</mass>
+				</planet>
+			</planets>
+		</galaxy>
+	</galaxies>
+</universe>
